@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Bmi</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate_bmi">Calculate bmi</string>
+    <string name="help">help</string>
+    <string name="bmi_info">The BMI is defined as the body mass divided by the square of the body height, and is universally expressed in units of kg/m2</string>
+    <string name="ok">OK</string>
+    <string name="your_bmi_is">Your BMI is</string>
+    <string name="clear">Clear</string>
 </resources>
