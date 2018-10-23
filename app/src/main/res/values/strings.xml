@@ -8,4 +8,8 @@
     <string name="ok">OK</string>
     <string name="your_bmi_is">Your BMI is</string>
     <string name="clear">Clear</string>
+    <string name="bmi">BMI</string>
+    <string name="m">身高(M)</string>
+    <string name="kg">體重(KG)</string>
+    <string name="help">help</string>
 </resources>
